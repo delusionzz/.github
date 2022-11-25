@@ -4,5 +4,5 @@
 <h1 align="center">Delusionzz</h1>
 <h2 >What we do</h2>
 - Make api's
-- Educational sites
+- Make websites
 - Utility bookmarklets
