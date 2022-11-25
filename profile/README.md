@@ -3,6 +3,6 @@
 </p>
 <h1 align="center">Delusionzz</h1>
 <h2 >What we do</h2>
-- Make apis
-- Make websites
-- Utility bookmarklets
+- Make apis<br>
+- Make websites<br>
+- Utility bookmarklets<br>
